@@ -15,10 +15,10 @@ Il est ainsi nécessaire d'examiner comment ces modèles peuvent formaliser les 
 ## Bibliographie
 
 - Eustasio del Barrio, Paula Gordaliza, and Jean-Michel Loubes. *Review of mathematical frameworks
-for fairness in machine learning*, 2020. \n
+for fairness in machine learning*, 2020. \
 https://arxiv.org/pdf/2005.13755.pdf
 - Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, and Aram Galstyan. *A survey
-on bias and fairness in machine learning*, 2021. \n
+on bias and fairness in machine learning*, 2021. \
 https://arxiv.org/pdf/1908.09635.pdf
 - Farhan Rahman. *COMPAS Case Study: Fairness of a Machine Learning Model*, 2020.
 https://towardsdatascience.com/compas-case-study-fairness-of-a-machine-learning-model-f0f804108751
