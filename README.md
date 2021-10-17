@@ -26,3 +26,5 @@ https://towardsdatascience.com/compas-case-study-fairness-of-a-machine-learning-
 https://dash.harvard.edu/bitstream/handle/1/37364658/MERCHANT-SENIORTHESIS-2019.pdf?sequence=1&fbclid=IwAR1CBQ0gYYKfhhHAn5_6JWZ8Htn1PRPFHEe3OnODZAc3NUcfOtsnT8V_wtk
 - Ziyuan Zhong. "A Tutorial on Fairness in Machine Learning".
 https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb
+- olprod. "Impartialité de l’apprentissage automatique (préversion)"
+https://github.com/MicrosoftDocs/azure-docs.fr-fr/blob/master/articles/machine-learning/concept-fairness-ml.md
