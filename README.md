@@ -28,3 +28,5 @@ https://dash.harvard.edu/bitstream/handle/1/37364658/MERCHANT-SENIORTHESIS-2019.
 https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb
 - olprod. *Impartialité de l’apprentissage automatique (préversion)*, 2021. \
 https://github.com/MicrosoftDocs/azure-docs.fr-fr/blob/master/articles/machine-learning/concept-fairness-ml.md
+- Solon Barocas and Moritz Hardt and Arvind Narayanan. *Fairness and Machine Learnin*, 2019. \
+https://fairmlbook.org/
